@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Khansa Samoo
 
-<!--
-**khansa-samoo/khansa-samoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 About Me
 
-Here are some ideas to get you started:
+🎓 BS Computer Science Student (University of Sindh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning:
+- Artificial Intelligence
+- Cybersecurity
+- Web Development
+
+🏆 Certifications
+- Google Prompting Essentials
+- Google Cybersecurity Professional Certificate (In Progress)
+
+💡 Interested in:
+- AI
+- Cybersecurity
+- Software Development
+
+📫 Reach Me
+
+- 📧 Email: khaanifatima22@gmail.com 
+- 🌐 Portfolio: https://khansa-samoo.github.io/portfolio/
+- 💼 LinkedIn:  linkedin.com/in/khansa-samoo-91033a36b 
+
+---
+
+## 🛠️ Languages & Tools
+
+- HTML
+- CSS
+- JavaScript
+- C++
+- Git
+- GitHub
+
+---
+
+⭐ Thanks for visiting my profile!
