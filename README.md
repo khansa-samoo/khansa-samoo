@@ -26,8 +26,7 @@
 
 - 📧 Email: khaanifatima22@gmail.com 
 - 🌐 Portfolio: https://khansa-samoo.github.io/portfolio/
-- 💼 LinkedIn:  linkedin.com/in/khansa-samoo-91033a36b 
-
+- 💼 LinkedIn:  https://linkedin.com/in/khansa-samoo-91033a36b
 ---
 
 <p align="left">
