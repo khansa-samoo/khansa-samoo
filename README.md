@@ -40,8 +40,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khansa-samoo&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khansa-samoo&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=khansa-samoo&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=khansa-samoo&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
