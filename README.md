@@ -1,5 +1,9 @@
 # Hi 👋, I'm Khansa Samoo
+![Profile Views](https://komarev.com/ghpvc/?username=khansa-samoo&label=Profile%20Views&color=0e75b6&style=flat)
 
+![GitHub followers](https://img.shields.io/github/followers/khansa-samoo?label=Followers&style=social)
+
+![GitHub User's stars](https://img.shields.io/github/stars/khansa-samoo?style=social)
 ## 💻 About Me
 
 🎓 BS Computer Science Student (University of Sindh)
@@ -26,15 +30,9 @@
 
 ---
 
-## 🛠️ Languages & Tools
-
-- HTML
-- CSS
-- JavaScript
-- C++
-- Git
-- GitHub
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
+</p>
 ---
 
 ⭐ Thanks for visiting my profile!
