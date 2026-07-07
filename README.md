@@ -6,7 +6,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/khansa-samoo?style=social)
 ## 💻 About Me
 
-🎓 BS Computer Science Student (University of Sindh)
+🎓 BS Computer Science Student (University of Sindh) 
 
 🌱 Currently learning:
 - Artificial Intelligence
